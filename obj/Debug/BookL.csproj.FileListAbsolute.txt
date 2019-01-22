@@ -1,0 +1,30 @@
+c:\users\afnaa\documents\visual studio 2013\Projects\BookL\BookL\bin\BookL.dll.config
+c:\users\afnaa\documents\visual studio 2013\Projects\BookL\BookL\bin\BookL.dll
+c:\users\afnaa\documents\visual studio 2013\Projects\BookL\BookL\bin\BookL.pdb
+c:\users\afnaa\documents\visual studio 2013\Projects\BookL\BookL\obj\Debug\BookL.csprojResolveAssemblyReference.cache
+c:\users\afnaa\documents\visual studio 2013\Projects\BookL\BookL\obj\Debug\BookL.dll
+c:\users\afnaa\documents\visual studio 2013\Projects\BookL\BookL\obj\Debug\BookL.pdb
+C:\Users\Administrator\Desktop\مجلد جديد\BookL\BookL\bin\BookL.dll.config
+C:\Users\Administrator\Desktop\مجلد جديد\BookL\BookL\bin\BookL.dll
+C:\Users\Administrator\Desktop\مجلد جديد\BookL\BookL\bin\BookL.pdb
+C:\Users\Administrator\Desktop\مجلد جديد\BookL\BookL\obj\Debug\BookL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\مجلد جديد\BookL\BookL\obj\Debug\BookL.dll
+C:\Users\Administrator\Desktop\مجلد جديد\BookL\BookL\obj\Debug\BookL.pdb
+C:\Users\Administrator\Desktop\final\BookL\BookL\bin\BookL.dll.config
+C:\Users\Administrator\Desktop\final\BookL\BookL\bin\BookL.dll
+C:\Users\Administrator\Desktop\final\BookL\BookL\bin\BookL.pdb
+C:\Users\Administrator\Desktop\final\BookL\BookL\obj\Debug\BookL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\final\BookL\BookL\obj\Debug\BookL.dll
+C:\Users\Administrator\Desktop\final\BookL\BookL\obj\Debug\BookL.pdb
+E:\shareuser\web_final_project\final\BookL\BookL\bin\BookL.dll.config
+E:\shareuser\web_final_project\final\BookL\BookL\bin\BookL.dll
+E:\shareuser\web_final_project\final\BookL\BookL\bin\BookL.pdb
+E:\shareuser\web_final_project\final\BookL\BookL\obj\Debug\BookL.csprojResolveAssemblyReference.cache
+E:\shareuser\web_final_project\final\BookL\BookL\obj\Debug\BookL.dll
+E:\shareuser\web_final_project\final\BookL\BookL\obj\Debug\BookL.pdb
+C:\Users\afnaa\Desktop\final3\final2\BookL\BookL\bin\BookL.dll.config
+C:\Users\afnaa\Desktop\final3\final2\BookL\BookL\bin\BookL.dll
+C:\Users\afnaa\Desktop\final3\final2\BookL\BookL\bin\BookL.pdb
+C:\Users\afnaa\Desktop\final3\final2\BookL\BookL\obj\Debug\BookL.csprojResolveAssemblyReference.cache
+C:\Users\afnaa\Desktop\final3\final2\BookL\BookL\obj\Debug\BookL.dll
+C:\Users\afnaa\Desktop\final3\final2\BookL\BookL\obj\Debug\BookL.pdb
